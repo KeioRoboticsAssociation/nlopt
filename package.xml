@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>nlopt</name>
+  <version>2.7.1</version> <description>NLopt library for ROS 2 workspace</description>
+  <maintainer email="user@todo.todo">User</maintainer>
+  <license>LGPL</license>
+
+  <buildtool_depend>cmake</buildtool_depend>
+
+  <export>
+    <build_type>cmake</build_type>
+  </export>
+</package>
